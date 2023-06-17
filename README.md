@@ -3,6 +3,9 @@
 
 This project focuses on developing a computer vision model using chest X-ray images to accurately classify pneumonia-positive and pneumonia-negative cases, employing data preprocessing
 
+![image](https://github.com/pazLevi/Chest-X-Ray-Project/assets/50837824/294144e8-553f-4a30-ba42-d8b3eea402e9)
+
+
 ## Dataset
 
 The dataset used for this project consists of Chest X-Ray images of pediatric patients from Guangzhou Women and Children’s Medical Center. The dataset is organized into three folders: train, test, and val, with separate subfolders for the Normal and Pneumonia categories.
