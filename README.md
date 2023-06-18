@@ -3,7 +3,7 @@
 
 This project focuses on developing a computer vision model using chest X-ray images to accurately classify pneumonia-positive and pneumonia-negative cases, employing data preprocessing
 
-![image](https://github.com/pazLevi/Chest-X-Ray-Project/assets/50837824/294144e8-553f-4a30-ba42-d8b3eea402e9)
+![image](https://github.com/pazLevi/Chest-X-Ray-Project/assets/50837824/7e029086-eae2-436e-8531-bb9acc0b439f)
 
 
 ## Dataset
